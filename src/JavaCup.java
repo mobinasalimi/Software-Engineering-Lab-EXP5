@@ -11,7 +11,7 @@ public class JavaCup {
         int j = scanner.nextInt();
         System.out.println("Press number3: ");
         int k = scanner.nextInt();
-//        temp();
+        temp();
         eval(i, j, k);
     }
     public static void eval(int i, int j, int k)
