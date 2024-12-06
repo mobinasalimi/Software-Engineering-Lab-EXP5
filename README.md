@@ -15,3 +15,14 @@
 
 
 ![image](https://github.com/user-attachments/assets/c8a03b71-b9b1-4ad0-bbdb-67c8bbed674a)
+
+
+
+با استفاده از الگوریتم divide and conquer همانطور که در کد ClosestPairOpt در فولد section2 مشاهده میکنید سعی میکنیم فرایند پیدا کردن نزدیک ترین نقاط و تابع closestPair را بهینه کنیم و پس از انجام پروفالینگ به نتایج زیر می‌رسیم و مدت زمان استفاده از cpu همانطور که در عکس‌ها آمده است کاهش یافته است:
+
+<img width="1293" alt="Screen Shot 2024-12-06 at 10 26 41 PM" src="https://github.com/user-attachments/assets/6ff54e61-f360-42e6-ab18-57daa5e5d7a4">
+
+
+<img width="1297" alt="Screen Shot 2024-12-06 at 10 27 50 PM" src="https://github.com/user-attachments/assets/91c225f3-fe6e-46ea-a498-9b644272e829">
+
+<img width="1292" alt="Screen Shot 2024-12-06 at 10 28 21 PM" src="https://github.com/user-attachments/assets/5cb9e6a2-0a7a-4424-be9c-0d34ac7983b0">
