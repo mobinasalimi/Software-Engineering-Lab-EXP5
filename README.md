@@ -1,3 +1,5 @@
+لینک کانبان برد: https://github.com/users/mobinasalimi/projects/3
+
 **سوال اول**
 
 در این قسمت از پروژه، عملیات Profiling را با استفاده از Yourkit بر روی کلاس JavaCup اجرا کردیم.
